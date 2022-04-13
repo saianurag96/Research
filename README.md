@@ -1,5 +1,5 @@
 ## Image Colorization using Deep Learning: Literature Review  
-##### [Link to the paper](https://link-url-here.org)
+##### [Link to the paper](https://github.com/saianurag96/Research/blob/main/Image%20Colorization/Image%20Colorization%20using%20Deep%20Learning%20-%20Literature%20Review.pdf)
 
 ### Abstract:
 Image colorization is an image-to-image translation problem. It can be considered a pixel-wise regression problem where structures in inputs and outputs are highly aligned. Automatic colorization is an active area of research because of its wide variety of applications. There are several techniques to solve the problem, and the colorization networks used are classified into several categories. This paper aims at studying the state-of-the-art algorithms implemented for the image colorization problem. The work reviews and summarizes three deep learning models with plain network architecture. The inputs to these networks are natural images, and the output is a single image. The primary focus of the papers is on automatic colorization without human intervention.
@@ -13,7 +13,7 @@ Image colorization is an active area of research, and many new strategies are in
 
 
 ## 5G Millimeter Wave – Beamforming Challenges and Techniques
-##### [Link to the paper](https://link-url-here.org)
+##### [Link to the paper](https://github.com/saianurag96/Research/blob/main/5G%20Network/5G%20Millimeter%20Wave%20%E2%80%93%20Beamforming%20Challenges%20and%20Techniques.pdf)
 
 ### Abstract:
 
