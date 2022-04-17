@@ -6,7 +6,7 @@ Image colorization is an image-to-image translation problem. It can be considere
 
 
 ## Image Colorization Enhancement using Transfer Learning
-##### [Link to the paper](https://link-url-here.org)
+##### [Link to the paper](https://github.com/saianurag96/Research/blob/main/Image%20Colorization/Image%20Colorization%20Enhancement%20using%20Transfer%20Learning.pdf)
 
 ### Abstract:
 Image colorization is an active area of research, and many new strategies are introduced every day wherein deep learning is extensively used to enhance the process. In this paper, we propose a transfer learning method that uses EfficientNet as a feature extractor to aid the process of fully automatic image colorization. Later, the results of the suggested method have been compared with few existing techniques which aim to solve the same problem.
